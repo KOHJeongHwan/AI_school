@@ -9,3 +9,7 @@
 - [파이썬과 인공지능 기초수학](https://github.com/KOHJeongHwan/AI_school/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
 
 ## 3주차 과제 (2020.06.04)
+
+
+
+## 4주차 과제 (2020.06.11)
